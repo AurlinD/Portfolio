@@ -179,18 +179,20 @@ main .pages ul li a:hover {
 }
 .content-0 h3{
   padding: 15px 30px 15px 30px;
+  font-size: 2.5vh;
 }
 
 .content-0 p{
   padding:  0 30px;
   padding-bottom: 20px;
+  font-size: 1.5vh;
 }
 
 .content-0 a{
   font-weight: bold;
   padding: 0 30px;
   color: #861A1A;
-
+  font-size: 2vh;
 
 }
 .project-1{
@@ -206,17 +208,20 @@ main .pages ul li a:hover {
 }
 .content-1 h3{
   padding: 15px 30px 15px 30px;
+  font-size: 2.5vh;
 }
 
 .content-1 p{
   padding:  0 30px;
   padding-bottom: 20px;
+  font-size: 1.5vh;
 }
 
 .content-1 a{
   font-weight: bold;
   padding: 0 30px;
   color: #861A1A;
+  font-size: 2vh;
 
 
 }
@@ -234,18 +239,21 @@ main .pages ul li a:hover {
 }
 .content-2 h3{
 padding: 15px 30px 15px 30px;
+font-size: 2.5vh;
 
 }
 
 .content-2 p{
   padding:  0 30px;
   padding-bottom: 20px;
+  font-size: 1.5vh;
 }
 
 .content-2 a{
   font-weight: bold;
   padding: 0 30px;
   color: #861A1A;
+  font-size: 2vh;
 }
 
 .project-3{
@@ -261,17 +269,20 @@ padding: 15px 30px 15px 30px;
 }
 .content-3 h3{
  padding: 15px 30px 15px 30px;
+  font-size: 2.5vh;
 }
 
 .content-3 p{
   padding:  0 30px;
   padding-bottom: 20px;
+  font-size: 1.5vh;
 }
 
 .content-3 a{
   font-weight: bold;
   padding: 0 30px;
   color: #861A1A;
+  font-size: 2vh;
 
 }
 
@@ -288,17 +299,20 @@ padding: 15px 30px 15px 30px;
 }
 .content-4 h3{
   padding: 15px 30px 15px 30px;
+  font-size: 2.5vh;
 }
 
 .content-4 p{
   padding:  0 30px;
   padding-bottom: 20px;
+  font-size: 1.5vh;
 }
 
 .content-4 a{
   font-weight: bold;
   padding: 0 30px;
   color: #861A1A;
+  font-size: 2vh;
 
 }
 
@@ -315,17 +329,20 @@ padding: 15px 30px 15px 30px;
 }
 .content-5 h3{
   padding: 15px 30px 15px 30px;
+  font-size: 2.5vh;
 }
 
 .content-5 p{
   padding:  0 30px;
   padding-bottom: 20px;
+  font-size: 1.5vh;
 }
 
 .content-5 a{
   font-weight: bold;
   padding: 0 30px;
   color: #861A1A;
+  font-size: 2vh;
 
 }
 
@@ -504,11 +521,9 @@ body{
 
 }
 .content-0 h3{
-  font-size: 3vh;
 }
 
 .content-0 p{
-  font-size: 2vh;
   padding:  0 30px;
   padding-bottom: 10px;
   word-spacing: normal;
@@ -537,11 +552,9 @@ body{
 
 }
 .content-1 h3{
-  font-size: 3vh;
 }
 
 .content-1 p{
-  font-size: 2vh;
   padding:  0 30px;
   padding-bottom: 10px;
   word-spacing: normal;
@@ -551,7 +564,6 @@ body{
   font-weight: bold;
   padding: 0 30px;
   color: #3b5998;
-  font-size: 2.5vh;
 
 
 }
@@ -568,12 +580,10 @@ body{
 
 }
 .content-2 h3{
-  font-size: 3vh;
 
 }
 
 .content-2 p{
-  font-size: 2vh;
   padding:  0 30px;
   padding-bottom: 10px;
   word-spacing: normal;
@@ -583,7 +593,6 @@ body{
   font-weight: bold;
   padding: 0 30px;
   color: #3b5998;
-  font-size: 2.5vh;
 }
 
 .project-2:hover{
@@ -598,11 +607,9 @@ body{
 
 }
 .content-3 h3{
-  font-size: 3vh;
 }
 
 .content-3 p{
-  font-size: 2vh;
   padding:  0 30px;
   padding-bottom: 10px;
   word-spacing: normal;
@@ -612,7 +619,6 @@ body{
   font-weight: bold;
   padding: 0 30px;
   color: #3b5998;
-  font-size: 2.5vh;
 
 }
 
@@ -628,7 +634,6 @@ body{
 
 }
 .content-4 h3{
-  font-size: 3vh;
 }
 
 .content-4 p{
@@ -658,7 +663,6 @@ body{
 
 }
 .content-5 h3{
-  font-size: 3vh;
 }
 
 .content-5 p{
@@ -672,7 +676,6 @@ body{
   font-weight: bold;
   padding: 0 30px;
   color: #3b5998;
-  font-size: 2.5vh;
 
 }
 
