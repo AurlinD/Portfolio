@@ -162,6 +162,33 @@ main .pages ul li a:hover {
   border-radius: 15px;
 }
 
+.skill{
+
+}
+
+.skill-0{
+  margin: 10px 10px 0px 0px;
+  width: calc(100%-20px);
+  height: 50vh;
+  background-color: white;
+  text-align: center;
+}
+
+.skill-1{
+  margin: 10px 10px 0px 0px;
+  width: calc(100%-20px);
+  height: 50vh;
+  background-color: white;
+  text-align: center;
+}
+
+.react-skills-image{
+  display:block;
+  width: 100%;
+  height: 25vh;
+  object-fit: cover;
+  margin: auto;
+}
 .projects{
 
 }
@@ -399,7 +426,8 @@ font-size: 2.5vh;
 .social {
   text-decoration: none;
   background-color: white;
-  display: inline-block;
+  margin-top: 15px;
+  display: block;
   width: 100%;
   text-align: center;
 
@@ -507,6 +535,23 @@ body{
   color: #ffd152;
   background-color: #5f72a9;
   border-radius: 15px;
+}
+
+.skill-1 u5{
+  float: right;
+  list-style-type: none;
+  color: green;
+}
+
+.skill{
+  display: grid;
+  grid-template-columns: 30vh 30vh 30vh 30vh;
+  grid-row: auto auto auto auto;
+  grid-column-gap: 10px;
+  grid-row-gap: :10px;
+  margin: 10px;
+  justify-content: center;
+
 }
 
 .projects{
