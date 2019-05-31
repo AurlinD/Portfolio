@@ -190,7 +190,7 @@ main .pages ul li a:hover {
   margin: auto;
 }
 .projects{
-
+justify-content: center;
 }
 
 .project-0{
@@ -403,6 +403,7 @@ font-size: 2.5vh;
   height: 40vh;
   object-fit: cover;
   margin: auto;
+  filter: blur(2px);
 
 }
 
